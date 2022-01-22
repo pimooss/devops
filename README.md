@@ -15,7 +15,6 @@ My main sources of inspiration for this content are
 
 * Technical Debt: describes how decisions we make lead to problems that get increasingly more difficult to fix over time (on top of natural entropy)
 * Entropy: constant gradual decline into disorder
-* 
 
 ### The Problem
 
@@ -43,7 +42,7 @@ Key points and examples
   > * Hypothesis-driven culture: we do nothing without measuring and treating product development and process improvement as experiments.
   > This ensures we don't build feature that no one wants or don't spend time fixing things that aren't real problems
 * Long-term teams focused on achieving clear goals
-  * Keeping teams impact
+  * Keeping teams intact so they can keep iterating and improving using feeback learnings
 * High-trust, collaborative culture where people are rewarded for taking risks
   * Blameless incident post mortems
   > *"We must see our problems in order to solve them"*
