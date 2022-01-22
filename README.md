@@ -33,7 +33,6 @@ Key points and examples
   * Telemetry both in code and infrastructure environments to ensure problems are detected and corrected quickly
   * Self service platforms (removing IT operation's "gate keeper" unwanted role)
   > In my mind it is a similar principle I use when I'm writing a script or a program, I would run it at almost every step of the way to check it is giving the desired outcome. On the same level, I would check for execution time and resource usage (memory/cpu) to ensure I didn't introduce an undesired/unecessary load intensive element.
-  > 
 * Making production deploys and changes routine
   * Dog fooding/dark launch: Deploy into production for internal employees and a small cohort of real users (feature flag)
   > This has many befinits: 
