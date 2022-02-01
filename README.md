@@ -37,7 +37,7 @@ Key points and examples
   * Dog fooding/dark launch: Deploy into production for internal employees and a small cohort of real users (feature flag)
   > This has many befinits: 
   > * Early feedbacks from real users allowing problems to be found and fixed quickly
-  > * Generates learnings early in the process
+  > * Generates learnings early in the process (fail fast)
   > * Hypothesis-driven culture: we do nothing without measuring and treating product development and process improvement as experiments.
   > This ensures we don't build feature that no one wants or don't spend time fixing things that aren't real problems
 * Long-term teams focused on achieving clear goals
@@ -45,5 +45,8 @@ Key points and examples
 * High-trust, collaborative culture where people are rewarded for taking risks
   * Blameless incident post mortems
   > *"We must see our problems in order to solve them"*
+  * Management's main goal is to enable engineers and developers to create value by removing obstacles and creating a safe environment.
+* Every improvement made outside of the constraint is an illusion 
+
 
 
